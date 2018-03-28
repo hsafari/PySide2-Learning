@@ -12,3 +12,5 @@ Or just install it via `conda` (this will involve getting Anaconda) using:
 
     conda config --add channels conda-forge
     conda install pyside2
+    
+Everything is numbered.  So start at 1 and work your way up on the different files.  The comments explain what each part of the code is doing.  Good Luck! :)
