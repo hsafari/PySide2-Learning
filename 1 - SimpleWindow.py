@@ -1,6 +1,7 @@
 # This will generate a simple PySide2 blank window.
 
 import sys # Needed to get command line arguements
+
 from PySide2.QtWidgets import QApplication, QWidget
 # QApplication is need for flow control of program and the main settings.
 # QWidget class is the base class of all user interface objects.
