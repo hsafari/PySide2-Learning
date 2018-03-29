@@ -18,7 +18,7 @@ class FirstWindow(QWidget): # Set QWidget as a class of the main window
         
     def blank(self):
         
-        button = QPushButton('Hover Over Me!', self) # Create the button
+        button = QPushButton('Press Me!', self) # Create the button
        
         button.setFont(QFont('SansSerif', 20)) # Apply font and font size to button
         
